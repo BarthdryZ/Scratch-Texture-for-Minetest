@@ -24,3 +24,4 @@ v0.2.2:Added a cooking recipe to change to greenflag and vice versa.
 v0.2.3:Changed Scratch Cat texture to inspired one rather than the Scratch Cat itself.
 v0.3.0:Added griffpatch block to the game.
 v0.3.1:Removed griffpatch for ContentDB, optional dependency and changed technical name
+v0.3.2:Improved Texture by adding noise to the image.
